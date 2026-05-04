@@ -1,0 +1,7 @@
+# Dotfiles and dot-directories
+.*
+!.gitignore
+
+# Project data directories
+knowledge/
+output/
