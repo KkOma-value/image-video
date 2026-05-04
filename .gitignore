@@ -5,3 +5,7 @@
 # Project data directories
 knowledge/
 output/
+
+# Python
+__pycache__/
+*.pyc
